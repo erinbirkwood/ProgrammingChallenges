@@ -1,2 +1,2 @@
 # ProgrammingChallenges
-Selected solutions to Kattis problems!
+Selected solutions to programming challenge/competition problems!
